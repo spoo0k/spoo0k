@@ -1,4 +1,10 @@
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+<h2 align="center">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="cmake_badge"/>
+    <br/>    
+    <img src="https://leetcard.jacoblin.cool/spoo0k" alt="cmake_badge"/>
+</h2>
+
+
 <!--
 **spoo0k/spoo0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
