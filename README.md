@@ -1,5 +1,3 @@
-### 👋
-
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 <!--
 **spoo0k/spoo0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
